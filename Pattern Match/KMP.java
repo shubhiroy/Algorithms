@@ -1,3 +1,8 @@
+//Time Complexity = O(n+m)
+//Space Complexity = O(n+m)
+// n - length of the test
+//m - length of the pattern to be found in the text
+
 import java.util.*;
 
 public class KMP{
